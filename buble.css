@@ -1,0 +1,36 @@
+footer{
+    background-color: rgb(47, 29, 29)
+}
+
+.googleplay{
+    display: block;
+    margin: 0 auto;
+}
+.email{
+    
+    display: block; text-align: center;
+    color: white;
+}
+.tel{
+    display: block; text-align: center;
+   color: white;
+}
+.duyda{
+    text-align: center;
+    color: white;
+}
+.adress{
+    color: white;
+    text-align: center
+}
+h1{
+    color: blue;
+}
+ul>li{
+    
+}
+ 
+
+
+
+

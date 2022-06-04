@@ -1,0 +1,23 @@
+.text{
+    color: rgb(197, 142, 142);
+}
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  }
+  
+  input, textarea {
+    padding: 8px;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 8px;
+  }
+  
+  textarea {
+    resize: none;
+  }
